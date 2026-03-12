@@ -1,0 +1,5 @@
+{
+  "name": "Savers Fund",
+  "description": "A comprehensive system for managing member contributions, automated penalties, and loan eligibility with guarantor-specific interest splitting.",
+  "requestFramePermissions": []
+}
